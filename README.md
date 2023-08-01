@@ -9,5 +9,5 @@ Visual sentiment analyzer is deployed on the hugging face. It provides details a
 
 **Reference**
 https://huggingface.co/Salesforce/blip-image-captioning-large 
-print('/n')
+
 https://huggingface.co/SamLowe/roberta-base-go_emotions
